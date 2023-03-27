@@ -49,3 +49,11 @@ syntax on
 
 retab
 ```
+To Install the plugins
+
+```
+$ vim +PlugInstall +qa
+```
+
+
+

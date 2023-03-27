@@ -52,7 +52,8 @@ retab
 To Install the plugins
 
 ```
-$ vim +PlugInstall +qa
+$ vim +PlugInstall +qa   # qa is for quitting in colon mode
+$ vim +GoInstallBinaries +qa
 ```
 
 
